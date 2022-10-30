@@ -26,3 +26,5 @@ Also we can see the pressure change:
 The payload was found at a distance of 104 km from the starting point:
 ![Found](Doc/Found.jpg)
 
+Media from the internal camera and some external drone shots were compiled into a short film, enjoy :)
+[![A film about the weather balloon](Doc/youtube.jpg)](https://www.youtube.com/watch?v=4AIsvloCAdA)
